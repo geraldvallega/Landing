@@ -1,24 +1,29 @@
-h1, h2,
-p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
 body {
   /* background-color: aquamarine; */
   background-image: url(../pexels-balisong-terence-8556602.jpg);
   background-size: cover;
   background-position: center;
+  font-family: 'Roboto', sans-serif;
 }
-.TouristSites p{
-  /* background-color: burlywood; */
-  display: inline-block;
+h1, h2,
+p {
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  text-align: center;
 }
+
 .MalaTarlac1{
   width: 80%;
   background-color: rgba(255, 228, 196, 0.425);
   /* background-color: tomato; */
   margin-left: auto;
   margin-right: auto;
+}
+.TouristSites p{
+  /* background-color: burlywood; */
+  display: inline-block;
 }
 .TouristSpot{
   width: 75%;
