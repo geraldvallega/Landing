@@ -1,9 +1,8 @@
-h1,
+h1, h2,
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
 }
-
 body {
   /* background-color: aquamarine; */
   background-image: url(../pexels-balisong-terence-8556602.jpg);
@@ -12,8 +11,14 @@ body {
 }
 .MalaTarlac1{
   width: 80%;
-  background-color: bisque;
+  background-color: rgba(255, 228, 196, 0.425);
   /* background-color: tomato; */
   margin-left: auto;
   margin-right: auto;
+}
+.TouristSpot{
+  text-align: left;
+}
+.TouristSpot_Add{
+  text-align: right;
 }
