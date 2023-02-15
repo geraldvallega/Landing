@@ -9,6 +9,10 @@ body {
   background-size: cover;
   background-position: center;
 }
+.TouristSites{
+  background-color: burlywood;
+  display: inline-block;
+}
 .MalaTarlac1{
   width: 80%;
   background-color: rgba(255, 228, 196, 0.425);
