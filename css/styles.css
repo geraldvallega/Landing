@@ -1,4 +1,12 @@
-h1, p{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: center;
+h1,
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: aquamarine;
+}
+div{
+  background-color: bisque;
 }
