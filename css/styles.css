@@ -21,12 +21,12 @@ body {
   margin-right: auto;
 }
 .TouristSpot{
-  width: 50%;
+  width: 75%;
   background-color: aqua;
   text-align: left;
 }
 .TouristSpot_Add{
-  width: 50%;
+  width: 25%;
   background-color: aquamarine;
   text-align: right;
 }
