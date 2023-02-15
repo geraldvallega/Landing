@@ -9,8 +9,8 @@ body {
   background-size: cover;
   background-position: center;
 }
-.TouristSites{
-  background-color: burlywood;
+.TouristSites p{
+  /* background-color: burlywood; */
   display: inline-block;
 }
 .MalaTarlac1{
@@ -21,8 +21,12 @@ body {
   margin-right: auto;
 }
 .TouristSpot{
+  width: 50%;
+  background-color: aqua;
   text-align: left;
 }
 .TouristSpot_Add{
+  width: 50%;
+  background-color: aquamarine;
   text-align: right;
 }
