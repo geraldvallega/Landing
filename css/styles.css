@@ -7,10 +7,10 @@ p {
 body {
   background-color: aquamarine;
 }
-div{
+.MalaTarlac1{
   width: 80%;
   background-color: bisque;
-  background-color: tomato;
+  /* background-color: tomato; */
   margin-left: auto;
   margin-right: auto;
 }
