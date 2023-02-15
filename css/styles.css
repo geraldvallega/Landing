@@ -5,7 +5,10 @@ p {
 }
 
 body {
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
+  background-image: url(../pexels-balisong-terence-8556602.jpg);
+  height: auto;
+  width: auto;
 }
 .MalaTarlac1{
   width: 80%;
