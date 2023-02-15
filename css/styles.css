@@ -8,5 +8,9 @@ body {
   background-color: aquamarine;
 }
 div{
+  width: 80%;
   background-color: bisque;
+  background-color: tomato;
+  margin-left: auto;
+  margin-right: auto;
 }
