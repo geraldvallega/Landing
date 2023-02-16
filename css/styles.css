@@ -21,7 +21,7 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
-.TouristSites p{
+.TouristSites p, .SportsActivities p {
   /* background-color: burlywood; */
   display: inline-block;
 }
@@ -30,11 +30,9 @@ p {
   background-color: aqua;
   text-align: left;
 }
-.TouristSpot_Add, .SportCategory{
+.TouristSpot_Add, .SportCategory {
   width: 25%;
   background-color: aquamarine;
   text-align: right;
 }
-.SportsActivities{
-  display: inline-block;
-} 
+ 
