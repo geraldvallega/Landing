@@ -16,11 +16,12 @@ p {
 
 .MalaTarlac1{
   width: 80%;
+  max-width: 700px;
   background-color: rgba(255, 228, 196, 0.425);
   /* background-color: tomato; */
   margin-left: auto;
   margin-right: auto;
-  padding: 20px 20px;
+  padding: 20px;
 }
 .TouristSites p, .SportsActivities p {
   /* background-color: burlywood; */
