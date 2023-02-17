@@ -28,7 +28,10 @@ h2{
   margin-right: auto;
   padding: 20px;
 }
-
+hr{
+  height: 2px;
+  background-color:rgba(222, 184, 135, 0.705);
+}
 .Tag_Line{
   font-style: italic;
 }
