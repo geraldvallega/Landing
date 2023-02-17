@@ -27,11 +27,17 @@ h2{
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
+  box-shadow: -5px 7px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -5px 7px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px 7px 5px 0px rgba(0,0,0,0.75);
 }
-hr{
+.TopLine, .BottomLine{
   height: 2px;
   background-color:rgba(222, 184, 135, 0.705);
   border-color:rgb(247, 207, 147);
+  box-shadow: -5px 2px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -5px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px 2px 5px 0px rgba(0,0,0,0.75);
 }
 .Tag_Line{
   font-style: italic;
