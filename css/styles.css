@@ -20,6 +20,8 @@ p {
   /* background-color: tomato; */
   margin-left: auto;
   margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .TouristSites p, .SportsActivities p {
   /* background-color: burlywood; */
