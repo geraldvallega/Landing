@@ -8,12 +8,17 @@ body {
   background-position: center;
   font-family: 'Roboto', sans-serif;
 }
-h1, h2,
-p {
-  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+h1, h2, p {
   text-align: center;
 }
 
+h1{
+  font-size: 40px;
+}
+
+h2{
+  font-size: 35px;
+}
 .MalaTarlac1{
   width: 80%;
   max-width: 700px;
@@ -23,18 +28,23 @@ p {
   margin-right: auto;
   padding: 20px;
 }
-.TouristSites p, .SportsActivities p {
-  /* background-color: burlywood; */
+
+.Tag_Line{
+  font-style: italic;
+}
+
+.TouristSites p, .SportsActivities p{
+  font-weight: 400;
   display: inline-block;
 }
 .TouristSpot, .Sport_Activity{
   width: 75%;
-  background-color: aqua;
+  /* background-color: aqua; */
   text-align: left;
 }
 .TouristSpot_Add, .SportCategory {
   width: 25%;
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   text-align: right;
 }
  
