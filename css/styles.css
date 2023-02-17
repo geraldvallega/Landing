@@ -31,6 +31,7 @@ h2{
 hr{
   height: 2px;
   background-color:rgba(222, 184, 135, 0.705);
+  border-color:rgb(247, 207, 147);
 }
 .Tag_Line{
   font-style: italic;
