@@ -47,6 +47,7 @@ h2{
 .TouristSites p, .SportsActivities p{
   font-weight: 400;
   display: inline-block;
+  margin: 5px 0px;
 }
 .TouristSpot, .Sport_Activity{
   width: 75%;
