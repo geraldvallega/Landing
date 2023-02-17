@@ -1,26 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 body {
   /* background-color: aquamarine; */
   background-image: url(../pexels-balisong-terence-8556602.jpg);
   background-size: cover;
   background-position: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 40px;
 }
-h1, h2, p {
+h1,
+h2,
+p {
   text-align: center;
 }
 
-h1{
+h1 {
   font-size: 40px;
 }
 
-h2{
+h2 {
   font-size: 35px;
 }
-.MalaTarlac1{
+.MalaTarlac1 {
   width: 80%;
   max-width: 700px;
   background-color: rgba(255, 228, 196, 0.425);
@@ -28,36 +29,42 @@ h2{
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  box-shadow: -5px 7px 5px 0px rgba(0,0,0,0.75);
--webkit-box-shadow: -5px 7px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: -5px 7px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: -5px 7px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -5px 7px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -5px 7px 5px 0px rgba(0, 0, 0, 0.75);
 }
-.TopLine, .BottomLine{
+.TopLine,
+.BottomLine {
   height: 2px;
-  background-color:rgba(222, 184, 135, 0.705);
-  border-color:rgb(247, 207, 147);
-  box-shadow: -5px 2px 5px 0px rgba(0,0,0,0.75);
--webkit-box-shadow: -5px 2px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: -5px 2px 5px 0px rgba(0,0,0,0.75);
-margin: 25px 0px;
+  background-color: rgba(222, 184, 135, 0.705);
+  border-color: rgb(247, 207, 147);
+  box-shadow: -5px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -5px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -5px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  margin: 25px 0px;
 }
-.Tag_Line{
+.Tag_Line {
   font-style: italic;
 }
 
-.TouristSites p, .SportsActivities p{
+.TouristSites p,
+.SportsActivities p {
   font-weight: 400;
   display: inline-block;
   margin: 5px 0px;
 }
-.TouristSpot, .Sport_Activity{
+.TouristSpot,
+.Sport_Activity {
   width: 75%;
   /* background-color: aqua; */
   text-align: left;
 }
-.TouristSpot_Add, .SportCategory {
+.TouristSpot_Add,
+.SportCategory {
   width: 25%;
   /* background-color: aquamarine; */
   text-align: right;
 }
- 
+footer{
+  font-size: 14px;
+}
